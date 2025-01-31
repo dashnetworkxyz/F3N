@@ -1,0 +1,14 @@
+[{
+    "modid": "dashnetwork-f3n",
+    "name": "F3N",
+    "description": "F3+N in 1.8.9",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["MasterDash5"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+}]
